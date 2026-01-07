@@ -201,4 +201,5 @@ function registrarSalidaDirecta(evento, index) {
 
 </script>
 
+<style src="@/assets/css/dashboard.css"></style>
 <style src="@/assets/css/controlAcceso.css"></style>

@@ -227,4 +227,5 @@ function cancelar() {
 }
 </script>
 
+<style src="@/assets/css/dashboard.css"></style>
 <style src="@/assets/css/Usuarios.css"></style>

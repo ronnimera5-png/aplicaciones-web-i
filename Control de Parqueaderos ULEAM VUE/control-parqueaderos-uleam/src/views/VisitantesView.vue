@@ -227,4 +227,5 @@ function descargarHistorial() {
 
 </script>
 
+<style src="@/assets/css/dashboard.css"></style>
 <style src="@/assets/css/RegistroVisitantes.css"></style>
